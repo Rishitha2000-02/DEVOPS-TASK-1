@@ -1,2 +1,6 @@
 This is the first version of the file.
+<<<<<<< HEAD
 Different update from master branch.
+=======
+Added a new line from feature-branch.
+>>>>>>> feature-branch
