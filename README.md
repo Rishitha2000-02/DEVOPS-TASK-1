@@ -4,13 +4,8 @@ Company name :--Code Tech IT solution
 
 Name:--Rishitha Blaji
 
-Intership ID:--
-
 Domain:-- Devops
 
-Duration:-
-
-Mentor:--
 
 # DevOps Internship Task - Git Conflict Resolution
 
